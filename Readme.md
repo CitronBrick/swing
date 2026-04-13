@@ -6,7 +6,9 @@ A swing made with Java Swing.
 
 ## To run
 
-Download the [swing.jar](https://github.com/CitronBrick/swing/raw/refs/heads/master/swing.jar)
+Download the [runnable swing.jar](https://github.com/CitronBrick/swing/raw/refs/heads/master/swing.jar)
+
+or build via 
 
 ```
 mvn compile exec:java
